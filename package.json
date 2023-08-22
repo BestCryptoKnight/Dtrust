@@ -21,7 +21,7 @@
   "homepage": "https://github.com/zwecken/DTrust#readme",
   "dependencies": {
     "@nomiclabs/buidler": "^1.4.8",
-    "@openzeppelin/contracts": "^4.2.0",
+    "@openzeppelin/contracts": "^4.9.3",
     "eth-gas-reporter": "^0.2.22",
     "mocha": "^9.0.3",
     "solidity-coverage": "^0.7.16",
